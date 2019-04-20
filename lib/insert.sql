@@ -10,7 +10,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 ("Pay for my dream car", "Donation", 50000, "2019-03-23", "2020-03-23"),
 ("Humane Society", "Charity", 1000, "2019-03-23", "2020-03-23");
 
-INSERT INTO user (name, age) VALUES
+INSERT INTO users (name, age) VALUES
 ("Bob", 23),
 ("Joseph", 23),
 ("Kevin", 23),
