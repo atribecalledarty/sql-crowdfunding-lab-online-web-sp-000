@@ -31,5 +31,7 @@ INSERT INTO user (name, age) VALUES
 ("Plato", 999),
 ("Michael", 23),
 ("Jordan", 23),
-("Shaq", 34),
+("Shaq", 34);
+
+INSERT INTO pledges ()
 
