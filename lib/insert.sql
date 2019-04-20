@@ -30,8 +30,7 @@ INSERT INTO users (name, age) VALUES
 ("Aristotle", 989),
 ("Plato", 999),
 ("Michael", 23),
-("Jordan", 23),
-("Shaq", 34);
+("Jordan", 23);
 
 INSERT INTO pledges (amount, user_id, project_id) VALUES
 (23, 1, 4),
@@ -63,6 +62,5 @@ INSERT INTO pledges (amount, user_id, project_id) VALUES
 (25, 16, 2),
 (123, 12, 9),
 (1, 11, 10),
-(16, 20, 10),
-(15, 1, 1);
+(16, 20, 10);
 
