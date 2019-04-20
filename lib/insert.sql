@@ -33,5 +33,22 @@ INSERT INTO user (name, age) VALUES
 ("Jordan", 23),
 ("Shaq", 34);
 
-INSERT INTO pledges ()
+INSERT INTO pledges (amount, user_id, project_id) VALUES
+(23, 1, 4),
+(599, 2, 1),
+(245, 1, 6),
+(26, 5, 2),
+(643, 19, 3),
+(123, 13, 1),
+(6, 7, 8),
+(3, 1, 7),
+(256, 2, 3),
+(25, 16, 2),
+(123, 12, 9),
+(1, 11, 10),
+(16, 20, 10),
+(15, 1, 1),
+(15, 5, 5),
+(1, 9, 9),
+(123, 19, 1),
 
